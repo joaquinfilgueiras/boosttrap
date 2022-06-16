@@ -1,0 +1,18 @@
+.lead{
+    font-size: 2rem;
+}
+
+.navbar-expand-md{
+    background-color: rgb(185, 151, 216);
+}
+
+.body{
+    background-color: rgb(224, 201, 246);
+}
+.bg-primary{
+    background-color: black;
+}
+.carousel-inner{
+    width: 50%;
+    margin: 0 auto;
+}
